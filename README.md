@@ -6,6 +6,7 @@ Dart packages developed by me:
  - [theater](https://pub.dev/packages/theater) - actor framework for Dart;
  - [ossa](https://pub.dev/packages/ossa) - simple package for working with multithreading;
  - [emerald](https://pub.dev/packages/emerald) - JSON serializer/deserializer for Dart (JIT only).
+ - [mapper_box](https://pub.dev/packages/mapper_box) - simple wrapper for collecting object mapping rules.
 
 Examples of those Flutter applications that I developed:
  - [synword](https://github.com/GlebBatykov/synword-mobile) - mobile application for checking and enhancing the uniqueness of texts;
