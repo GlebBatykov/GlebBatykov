@@ -5,7 +5,7 @@ I'm a Flutter developer and Dart enthusiast. In my free time, I develop Dart pac
 Dart packages developed by me:
  - [theater](https://pub.dev/packages/theater) - actor framework for Dart;
  - [ossa](https://pub.dev/packages/ossa) - simple package for working with multithreading;
- - [emerald](https://pub.dev/packages/emerald) - JSON serializer/deserializer for Dart (JIT only).
+ - [emerald](https://pub.dev/packages/emerald) - JSON serializer/deserializer for Dart (JIT only);
  - [mapper_box](https://pub.dev/packages/mapper_box) - simple wrapper for collecting object mapping rules.
 
 Examples of those Flutter applications that I developed:
