@@ -10,6 +10,7 @@ Dart packages developed by me:
  - [numbers_to_words_russian](https://pub.dev/packages/numbers_to_words_russian) - numbers to russian words converter;
  - [mapper_box](https://pub.dev/packages/mapper_box) - simple wrapper for collecting object mapping rules;
  - [mcache](https://pub.dev/packages/mcache) - simple package for caching values in memory.
+ - [file_copy](https://pub.dev/packages/file_copy) - Package for copy files, directories, links. You can watch the copying process.
 
 Examples of those Flutter applications that I developed:
  - [synword](https://github.com/GlebBatykov/synword-mobile) - mobile application for checking and enhancing the uniqueness of texts;
