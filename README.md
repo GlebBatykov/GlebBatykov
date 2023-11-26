@@ -3,7 +3,7 @@
 I'm a Flutter developer and Dart enthusiast. In my free time, I develop Dart packages.
 
 Dart packages developed by me:
- - [minerva](https://pub.dev/packages/minerva) - server side framework;
+ - [minerva](https://pub.dev/packages/minerva) - backend framework;
  - [theater](https://pub.dev/packages/theater) - actor framework for Dart;
  - [ossa](https://pub.dev/packages/ossa) - simple package for working with multithreading;
  - [emerald](https://pub.dev/packages/emerald) - JSON serializer/deserializer for Dart (JIT only);
